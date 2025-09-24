@@ -4,6 +4,7 @@
 
 
 ## FIX CODE
+```c++
 #include <stdio.h>
 #include <string.h>
 
